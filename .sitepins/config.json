@@ -9,7 +9,9 @@
   "code": {
     "root": ""
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "config"
+  ],
   "arrangement": [],
   "showCommitModal": false
 }
