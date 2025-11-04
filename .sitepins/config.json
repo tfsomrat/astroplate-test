@@ -10,7 +10,7 @@
     "root": ""
   },
   "themeConfig": [
-    "config"
+    "src/config"
   ],
   "arrangement": [],
   "showCommitModal": false
