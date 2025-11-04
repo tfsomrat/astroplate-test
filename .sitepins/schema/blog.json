@@ -72,6 +72,31 @@
       "type": "boolean",
       "value": false,
       "defaultValue": ""
+    },
+    {
+      "name": "test",
+      "label": "test",
+      "type": "object",
+      "value": "",
+      "description": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "fields": [
+        {
+          "name": "test",
+          "label": "test",
+          "type": "string",
+          "value": "",
+          "description": "",
+          "isRequired": false,
+          "defaultValue": "",
+          "isDropdown": true,
+          "options": [
+            "test",
+            "test 2"
+          ]
+        }
+      ]
     }
   ]
 }
